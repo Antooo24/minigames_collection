@@ -1,0 +1,27 @@
+body {
+	padding: 0;
+    background-color: #F4F4F5;
+    color: #1B2A37;
+}
+
+a {
+    text-decoration: none;
+    color: #1B2A37;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+    width: 100%;
+    background-color: #B5BAD0;
+	color: #1B2A37;
+}
+
+footer .icon_footer {
+	text-align: center;
+	align-items: center;
+	display: inline-block;
+	font-size: 115%;
+	margin: 10px 15px;
+}
